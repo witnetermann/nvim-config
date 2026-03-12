@@ -1,15 +1,17 @@
-# Nvim Config
+# Neovim Configuration
 
-## Introduction
-This repository contains my personal configuration for Neovim, tailored to enhance productivity and workflow.
+This repository contains my personal configuration files for Neovim, aimed at enhancing productivity and providing a better coding experience.
 
 ## Features
-- Customized key mappings.
-- Integrated plugins for better development experience.
+- Custom keybindings
+- Plugin management using Packer
+- Syntax highlighting and themes
 
-## Usage
-Clone this repository and link the configuration files to your Neovim config directory.
+## Installation
+1. Clone the repository.
+2. Copy the configuration files to your Neovim configuration directory (usually `~/.config/nvim`).
+3. Install the plugins by opening Neovim and running `:PackerInstall`.
 
 ## Future Plans
-- Add more plugins.
-- Optimize configurations based on my usage patterns.
+- Add more plugins for better development workflow.
+- Continuously improve the configuration based on personal experience and feedback.
